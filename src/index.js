@@ -2,11 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-//import NewForm from './controlledcomponents';
-//import Clock from './clock'
-//import FetchApi from './fetchapi'
 import Narcos from './episodes'
-//import Episodes from './episodes1'
+import Episodes from './components/episodesComponent'
 ReactDOM.render(
   
   <div>
